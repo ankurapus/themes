@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/GoAdminGroup/go-admin/modules/logger"
 	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/themes/adminlte/components"
+	"github.com/ankurapus/themes/adminlte/components"
 	"html/template"
 )
 
